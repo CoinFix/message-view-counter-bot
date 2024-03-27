@@ -16,3 +16,4 @@ a telegram bot to add view counter to messages
 python3 bot.py
 
 
+It completely advertises itself on Telegram, views are not added when we install the bot.
